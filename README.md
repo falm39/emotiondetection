@@ -11,7 +11,6 @@ Bu proje, gerçek zamanlı olarak bir web kamerasından alınan görüntülerde 
 
 ## Kurulum ve Kullanım
 
-Projenin nasıl kurulacağı ve kullanılacağına dair adımlar README dosyasında detaylı olarak açıklanmıştır. 
 Python ve gerekli bağımlılıkların yüklenmesi gerekmektedir. 
 Daha sonra proje dizinindeki ana dosya çalıştırılarak duygu tanıma uygulaması kullanılabilir.
 tensorflow Version: 2.13.0rc1
@@ -27,9 +26,6 @@ uygulama alanları arasında insan-makine etkileşimi,
 pazarlama analizi ve duygu tabanlı öneri sistemleri bulunmaktadır. 
 Bu projenin amacı, bu teknolojiyi uygulamak ve kullanıcıya gerçek zamanlı olarak duygu analizi sunmaktır.
 
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakınız.
 
 ## İletişim
 
